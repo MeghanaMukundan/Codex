@@ -7,5 +7,4 @@ def fact(n):
     else: 
         return ("Invalid")
 print(fact(int(input())))
-
 print(fact(2))

@@ -5,6 +5,8 @@ def fact(n):
         else:
              return n*fact(n-1)
     else: 
+
+        
         return ("Invalid")
 print(fact(int(input())))
 print(fact(2))
